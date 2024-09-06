@@ -1,0 +1,878 @@
+
+
+@media (max-width: 425px){
+
+
+    header .navbar-nav{
+        text-align: center;
+    }
+
+
+    .common_contain h1 {
+        font-size: 48px !important;
+        line-height: 60px ;
+        margin-bottom: 13px;
+        margin-top: 26px;
+    }
+    .c_revarse   .common_contain {
+        text-align: center;
+        margin-top: -90px;
+    }
+    .counter h1, .c_number h1, .c_number h2 {
+        
+        margin: 0;
+        font-size: 25px !important;
+        font-weight: 600;
+        line-height: 24px;
+    }
+
+
+    .num_box {
+        height: 100px;
+    }
+
+    .c_revarse{
+        display: flex;
+        flex-direction: column-reverse;
+    }
+
+    .common_contain p {
+       
+        font-size: 16px;
+        line-height: 22px;    
+        
+    }
+    .common_contain .counter {
+        margin-top: 50px ;
+    }
+
+    .banner_section {
+        position: relative;
+        padding: 10px 0 0px;
+    }
+
+
+
+
+    .download_cv {
+        
+        position: static;
+            
+        transform: translate(0px, 60px);
+    }
+    .icon {
+        position: static;
+        width: 50%;
+        transform: translate(110px, -40px);
+    }
+
+    .cv_img{
+        margin-top: 50px;
+    }
+    .cus_common{
+        margin-bottom: 50px;
+        text-align: center;
+        margin-top: 0 !important;
+    }
+    .cus_common h1 {
+        font-size: 40px !important;
+        line-height: 55px;
+        margin-bottom: 20px;
+        margin-top: 0px;
+    }
+    .cus_common p {
+        margin: 20px 0 24px 0;
+    }
+
+    .d_common h1 {
+        font-size: 30px !important;
+        line-height:40px;
+        margin-bottom: 20px;
+    }
+
+
+    .work {
+        
+        padding: 60px 0 45px;
+    }
+
+    .common_work{
+        text-align: center;
+    }
+    .common_work p {
+        width: 100%;
+    }
+
+    .common_work h1 {
+        font-size: 40px !important;
+    }
+    .w_details {
+        padding: 22px;
+    }
+    .portfolio {
+        padding: 30px 0;
+    }
+
+    .detail {
+        padding: 30px 0 40px;
+    }
+
+    .blog {
+        padding: 30px 0 40px;
+    }
+
+
+    .services {
+        padding: 30px 0;
+        background: #F0F1F3;
+    }
+
+    .s_common p {
+        margin-bottom: 20px !important;
+    }
+
+   
+    .services_d {
+        background: #fff;
+        padding: 20px;
+        border-left: 5px solid #fff;
+       
+        margin-bottom: 12px !important;
+        margin-top: 35px;
+    }
+
+    .h_clients {
+        padding: 30px 0;
+    }
+    .brand_c {
+        
+        margin-bottom: 15px;
+    }
+
+    .blog_common h1 {
+        font-size: 40px !important;
+        line-height: 56px;
+    }
+    .blog_common p {
+        margin-bottom: 40px;
+    }
+
+    .testimonial {
+        padding: 20px 0 40px;
+    }
+    .testimonial {
+    padding: 20px 0 40px;
+    }
+    .c_review p {
+        width: 99%;
+        margin: 0px auto 24px;
+        font-size: 16px;
+        line-height: 24px;
+    }
+    .contact_us {
+        padding: 40px 0;
+    }
+
+    .add_common h1 {
+        font-size: 35px !important;
+        line-height: 40px !important;
+        text-align: center;
+    }
+    .add_common p {
+        font-size: 16px;
+        margin-bottom: 25px !important;
+        text-align: center;
+    }
+    .social_icon ul {
+        justify-content: center;
+        width: 100%;
+        margin-bottom: 20px;
+        margin-top: 10px;
+        box-shadow: 0px 0px 40px 0px #0000001c;
+        border-radius: 10px;
+        padding: 10px 0px;
+    }
+    .m_add {
+        width: 100%;
+        padding: 15px;
+        margin-bottom: 5px;
+    }
+
+    .form_main .custom_btn {
+        width: 100%;
+        
+    }
+
+    footer #navbarSupportedContent{
+        display: none;
+    }
+
+    footer .navbar-toggler{
+        display: none;
+    }
+
+    footer  .small_d{
+        display: flex;
+        justify-content: center !important;
+        align-items: center;
+    
+    }
+    footer  .small_d a{
+      
+        text-align: center;
+        margin-bottom: 15px;
+    
+    } 
+
+    footer {
+        padding: 20px 0 20px;
+        background: #2B384C;
+    }
+
+}
+
+@media (min-width: 426px) and (max-width: 575px) {
+    
+    /* header start  */
+
+    header .navbar-nav{
+        text-align: center;
+    }
+
+    
+    .c_revarse   .common_contain {
+        text-align: center;
+        margin-top: -90px;
+    }
+
+    .common_contain {
+        text-align: center;
+    }
+
+    .common_contain h1 {
+        font-size: 55px ;
+        line-height: 70px;
+        margin-bottom: 20px;
+        margin-top: 24px;
+        
+    }
+    .common_contain p {
+       
+        font-size: 16px;
+        line-height: 22px;
+        
+        
+    }
+
+    .common_contain .counter {
+        margin-top: 50px ;
+    }
+
+    
+    .counter h1, .c_number h1, .c_number h2 {
+        
+        margin: 0;
+        font-size: 25px !important;
+        font-weight: 600;
+        line-height: 24px;
+    }
+
+    
+    .banner_section {
+        position: relative;
+        padding: 10px 0 0px;
+    }
+
+
+    .c_revarse{
+        display: flex;
+        flex-direction: column-reverse;
+    }
+
+    .download_cv {
+        
+    position: static;
+        
+    transform: translate(0px, 60px);
+    }
+    .icon {
+        position: static;
+        width: 45%;
+        transform: translate(150px, -40px);
+    }
+    .cv_img{
+        margin-top: 50px;
+    }
+    .cus_common{
+        margin-bottom: 50px;
+        margin-top: 0 !important;
+    }
+    .cus_common h1 {
+        font-size: 40px;
+        line-height: 55px;
+        margin-bottom: 20px;
+        margin-top: 50px;
+    }
+
+
+
+
+    .portfolio {
+        padding: 50px 0;
+    }
+    .common_work p {
+        width: 100%;
+    }
+
+    .common_work h1 {
+        font-size: 40px !important;
+    }
+
+    .work {
+        padding: 70px 0 50px;
+    }
+
+    .p_common p {
+        width: 100%;
+        font-size: 16px;
+        margin: 20px auto 40px;
+        color: var(--gray);
+    }
+
+
+
+    .detail {
+        padding: 50px 0;
+    }
+    .d_common h1 {
+        font-size: 40px !important;
+        line-height: 50px !important;
+        margin-top: 0 !important;
+    }
+
+
+
+    .blog {
+        padding: 50px 0;
+    }
+
+    .blog_common p {
+        margin-bottom: 40px;
+    }
+
+
+    .blog_common h1 {
+        font-size: 48px !important;
+        line-height: 50px !important;
+        margin: 0 0 20px;
+    }
+
+    .services {
+        padding: 50px 0;
+        background: #F0F1F3;
+    }
+
+
+    .common_work p {
+        width: 100%;
+        margin-bottom: 25px !important;
+    }
+    .common_work {
+        margin-bottom: 30px;
+        text-align: center;
+    }
+
+
+
+    .h_clients {
+        padding: 50px 0;
+    }
+
+    .brand_c {
+        margin-bottom: 20px;
+    }
+
+    .testimonial {
+        padding: 50px 0;
+    }
+
+    .c_review p {
+        width: 95%;
+        margin: 0px auto 20px;
+        font-size: 16px;
+        font-weight: 500;
+        line-height: 24px;
+    }
+    .c_review p {
+        width: 95%;
+        margin: 0px auto 20px;
+        line-height: 24px;
+    }
+
+    
+    .contact_us {
+        padding: 50px 0;
+    }
+
+
+    .add_common{
+        text-align: center;
+    }
+
+    .m_add {
+        
+        width: 60%;
+        margin: auto;
+    }
+
+    .social_icon ul {
+        justify-content: center;
+        width: 100%;
+        margin-bottom: 20px;
+        margin-top: 10px;
+        box-shadow: 0px 0px 40px 0px #0000001c;
+        border-radius: 10px;
+        padding: 10px 0px;
+    }
+
+    .form_main .custom_btn {
+        width: 100%;
+        
+    }
+
+    footer #navbarSupportedContent{
+        display: none;
+    }
+
+    footer .navbar-toggler{
+        display: none;
+    }
+
+    
+  
+
+}
+
+
+@media(min-width: 576px) and (max-width: 767px) {
+    
+    
+    
+
+    .common_contain {
+        text-align: center;
+    }
+
+    .common_contain h1 {
+        font-size: 60px;
+        line-height: 70px;
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+    .common_contain p {  
+        font-size: 16px;
+    }
+
+    .common_contain .counter {
+        margin-top: 40px;
+    }
+    .num_box {
+        width: 100%;
+        
+    }
+
+    .common_contain p {
+       
+        font-size: 16px;
+        line-height: 22px;
+        
+        
+    }
+
+    .common_contain .counter {
+        margin-top: 50px ;
+    }
+
+    
+    .counter h1, .c_number h1, .c_number h2 {
+        
+        margin: 0;
+        font-size: 30px !important;
+        font-weight: 600;
+        line-height: 24px;
+    }
+
+    .banner_section {
+        position: relative;
+        padding: 10px 0 0;
+    }
+
+    .download_cv {
+        
+        position: static;
+        transform: translate(0%, 10%);
+    }
+    .icon {
+        width: 45%;
+        bottom: 45%;
+        left: 50%;
+    }
+    .cv_img{
+        margin-top: 50px;
+    }
+    .cus_common{
+        margin-bottom: 50px;
+    }
+    .cus_common h1 {
+        font-size: 48px;
+        line-height: 55px;
+        margin-bottom: 20px;
+        margin-top: 50px;
+    }
+    .work {
+        padding: 120px 0 60px;
+    }
+
+    .common_work h1 {
+        font-size: 45px !important;
+        
+    }
+    .common_work p {
+        width: 100%;
+        font-size: 16px;
+        margin-bottom: 40px;
+    }
+    .portfolio {
+        padding: 55px 0;
+    }
+    .p_common p {
+        margin: 20px auto 40px;
+        font-size: 16px;
+    }
+
+    .d_common h1 {
+        font-size: 40px !important;
+        line-height: 60px !important;
+        margin-bottom: 20px;
+    }
+
+    .detail {
+        padding: 55px 0;
+    }
+
+
+    .blog {
+        padding: 55px 0;
+    }
+
+    .blog_common h1 {
+        font-size: 48px !important;
+        line-height: 50px !important;
+        margin: 0 0 20px;
+    }
+
+
+    .blog_common p {
+        margin-bottom: 35px;
+    }
+
+
+    .services {
+        padding: 55px 0;
+        background: #F0F1F3;
+    }
+
+
+    .common_work p {
+        width: 100%;
+        margin-bottom: 25px !important;
+    }
+    .common_work {
+        margin-bottom: 30px;
+        text-align: center;
+    }
+
+
+    .h_clients {
+        padding: 60px 0;
+    }
+
+    .brand_c {
+        margin-bottom: 25px;
+    }
+
+    .testimonial {
+        padding: 0 0 55px;
+    }
+
+    .c_review p {
+        width: 95%;
+        margin: 0px auto 20px;
+        font-size: 16px;
+        font-weight: 500;
+        line-height: 24px;
+    }
+    .c_review p {
+        width: 99%;
+        margin: 0px auto 20px;
+        line-height: 24px;
+    }
+
+    .contact_us {
+        padding: 50px 0;
+    }
+
+
+    .add_common{
+        text-align: center;
+    }
+
+    .m_add {
+        
+        width: 60%;
+        margin: auto;
+    }
+
+    .social_icon ul {
+        justify-content: center;
+        width: 100%;
+        margin-bottom: 20px;
+        margin-top: 10px;
+        box-shadow: 0px 0px 40px 0px #0000001c;
+        border-radius: 10px;
+        padding: 10px 0px;
+    }
+
+    .form_main .custom_btn {
+        width: 100%;
+        
+    }
+
+    footer #navbarSupportedContent{
+        display: none;
+    }
+
+    footer .navbar-toggler{
+        display: none;
+    }
+    footer {
+        padding: 30px 0 30px;
+        background: #2B384C;
+    }
+    
+}
+
+
+@media(min-width: 768px) and (max-width: 991px) {
+ 
+
+    header .navbar-nav{
+        text-align: center;
+    }
+
+    .common_contain h1 {
+        font-size: 40px;
+        line-height: 50px;
+       
+        margin-bottom: 11px;
+    }
+
+    .common_contain p {
+        font-size: 16px;
+        line-height: 22px;
+        font-weight: 400;
+        margin-bottom: 20px;
+    }
+
+    .common_contain .counter {
+        margin-top: 40px;
+    }
+
+    .counter h1, .c_number h1  {
+        
+        font-size: 26px !important;
+    
+        line-height: 20px !important;
+        margin: 0;
+    }
+    .c_number h2{
+        font-size: 26px !important;
+    
+        line-height: 20px !important;
+    }
+
+    .num_box {
+        margin-right: 10px;
+        height: 90px;
+    }
+
+    .height {
+        min-height: 60vh;
+    
+    }
+
+    .banner_img{
+        width: 113%;
+    }
+    .banner_section {
+        padding: 10px 0 0px;
+        margin-bottom: -55px;
+    }
+
+
+    .download_cv {
+        position: static;
+        width: 100%;
+        height: 100%;
+        transform: translate(0%, 15%);
+
+    }
+    .cus_box {
+        padding: 40px 9px;
+    }
+    .cus_common h1 {
+        font-size: 38px !important;
+        line-height: 45px !important;
+    }
+    .cus_common p {
+        margin: 12px 0 20px 0;
+    }
+
+    .icon {
+        width: 30%;
+        bottom: 10%;
+       
+    }
+
+
+    .work {
+        background: #F0F1F3;
+        padding: 150px 0 50px;
+    }
+    .w_details p {
+        font-size: 14px;
+    }
+
+
+
+    
+    .portfolio {
+        padding: 50px 0;
+    }
+    .p_common p {
+        margin: 20px auto 30px;
+        font-size: 16px;
+        
+    }
+
+    .detail {
+        padding: 50px 0;
+    }
+
+
+    .blog {
+        padding: 50px 0;
+    }
+
+
+    .blog_common p {
+        margin-bottom: 25px !important;
+    }
+
+    .blog_card p {
+        font-size: 12px;
+        line-height: 18px;
+        
+    }
+    .blog_card h5 {
+        font-size: 16px;
+        line-height: 22px;
+    }
+
+    .brand_c {
+        margin-bottom: 25px;
+    }
+    .brand_c {
+        text-align: center;
+        margin-bottom: 25px;
+    }
+
+
+    .testimonial {
+        padding: 0 0 70px 0;
+    }
+    .c_review p {
+        width: 98%;
+        margin: 0px auto 25px;
+    }
+
+    .m_add {
+        
+        width: 100%;
+        padding: 10px;
+        margin-bottom: 8px;
+    }
+    .add_common p {
+        font-size: 16px;
+        line-height: 24px;
+        margin-bottom: 20px !important;
+    }
+
+    footer #navbarSupportedContent{
+        display: none;
+    }
+
+    footer .navbar-toggler{
+        display: none;
+    }
+    footer {
+        padding: 30px 0 30px;
+        
+    }
+    
+
+
+    
+}
+
+
+@media (min-width: 992px) and (max-width: 1200px){
+
+
+
+    .banner_section {
+        position: relative;
+        padding: 10px 0 0px;
+    }
+
+    .download_cv {
+        position: static;
+        width: 100%;
+        height: 100%;
+        transform: translate(0%, 15%);
+    }
+    .work {
+        background: #F0F1F3;
+        padding: 180px 0 100px;
+    }
+    .m_add {
+      
+        width: 70%;
+        padding: 15px;
+        margin-bottom: 5px;
+    }
+    .num_box {
+        width: 33%;
+        height: 120px;
+    }
+
+    .icon {
+        width: 25%;
+        position: absolute;
+        bottom: 11%;
+        transform: translate(-50%, 0%);
+    }
+
+}
+
+
